@@ -1,0 +1,81 @@
+<div
+        data-w-id="3b874097-6419-6d24-0370-648d064627f5"
+        style="
+          -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1)
+            rotateX(90deg) rotateY(0) rotateZ(0) skew(0, 0);
+          -moz-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(90deg)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          -ms-transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(90deg)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform: translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(90deg)
+            rotateY(0) rotateZ(0) skew(0, 0);
+          transform-style: preserve-3d;
+        "
+        class="my-passion-for-design-0"
+      >
+        Testimonials
+      </div>
+      <div class="content-4">
+        <div
+          data-w-id="efda6238-9866-71c5-1c4f-a208b174100b"
+          style="opacity: 0"
+          class="testimonial1"
+        >
+          <div class="test_div">
+            <div class="head-pic">
+              <img
+                src="https://assets-global.website-files.com/6542b6bde491d9d69b054a11/65c4fc34a23037320afa3f21_Ellipse%2010.svg"
+                loading="lazy"
+                width="100"
+                alt="Michael Silve
+"
+                class="profile"
+              />
+            </div>
+            <div class="div-block-29 names">
+              <h3 class="heading-4">Michael Silva</h3>
+              <h4 class="title">Founder, CEO</h4>
+            </div>
+            <p class="par">
+              &quot;Collaborating with Balazs on the visual design of my
+              company&#x27;s website was a great experience. Despite facing a
+              tight deadline, Balazs demonstrated the dedication and expertise
+              that I was looking for in a creative partner. Communication was on
+              point and his attention to detail ensured that the final result
+              surpassed our expectations. I’d be happy to work with him again on
+              future projects.&quot;
+            </p>
+          </div>
+        </div>
+        <div
+          data-w-id="9464b158-2634-c100-9d33-a10afe8fb5d9"
+          style="opacity: 0"
+          class="testimonial"
+        >
+          <div class="test_div">
+            <div class="head-pic">
+              <img
+                src="https://assets-global.website-files.com/6542b6bde491d9d69b054a11/65c4fc35701f103f90c1906f_Ellipse%2012.svg"
+                loading="lazy"
+                width="100"
+                alt="Mr James Watson
+"
+                class="profile"
+              />
+            </div>
+            <div class="div-block-29 names">
+              <h3 class="heading-4">Mr James Watson</h3>
+              <h4 class="title">Creative Genius, Founder</h4>
+            </div>
+            <p class="par">
+              &quot;Working with Balazs on the Farsight project was an enriching
+              experience. His exceptional communication skills, abundance of
+              innovative ideas, and proactive approach made him a valuable asset
+              to the team. His eagerness to learn and contribute added immense
+              depth to our project, highlighting his potential to excel in any
+              endeavor.&quot;
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
